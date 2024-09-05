@@ -4,7 +4,7 @@
     "eslint-config-airbnb-base"
   ],
   "parserOptions": {
-    "sourceType": "script" // We do not use ES6/ES2015 modules
+    "sourceType": "script"// We do not use ES6/ES2015 modules
   },
   "rules": {
     // CS rules
